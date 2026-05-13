@@ -1,0 +1,6 @@
+.idea/
+data/
+datasets/
+__pycache__/
+*.pyc
+*.tgz
